@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" fill="none">
+  <rect width="900" height="560" rx="42" fill="#08051f"/>
+  <circle cx="450" cy="250" r="210" fill="#8b5cf6" opacity="0.25"/>
+  <circle cx="740" cy="420" r="160" fill="#f97316" opacity="0.18"/>
+  <path d="M170 145H540C590 145 630 185 630 235V420H170V145Z" fill="white" opacity="0.1"/>
+  <path d="M220 190H570M220 240H520M220 290H545M220 340H480" stroke="#06b6d4" stroke-width="18" stroke-linecap="round"/>
+  <path d="M650 150L704 260L820 276L736 360L756 478L650 422L544 478L564 360L480 276L596 260L650 150Z" fill="#f8fafc" opacity="0.88"/>
+  <text x="80" y="510" fill="#f8fafc" font-family="Segoe UI, Arial" font-size="32" font-weight="800">AI Ebook Generator</text>
+</svg>
