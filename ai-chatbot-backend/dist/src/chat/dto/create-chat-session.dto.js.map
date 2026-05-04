@@ -1,0 +1,1 @@
+{"version":3,"file":"create-chat-session.dto.js","sourceRoot":"","sources":["../../../../src/chat/dto/create-chat-session.dto.ts"],"names":[],"mappings":";;;;;;;;;AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,iBAAiB,CAAC;AAEtD,MAAM,OAAO,oBAAoB;IAK/B,KAAK,CAAU;CAChB;AADC;IAJC,mBAAmB,CAAC;QACnB,WAAW,EAAE,6DAA6D;QAC1E,OAAO,EAAE,gBAAgB;KAC1B,CAAC;;mDACa"}
